@@ -1,0 +1,54 @@
+.LOG
+
+day-1
+
+1.Es6 features
+2.js-datatype-heap-stack
+
+(a)wh is dataType?
+data type is type of data that can be stored in a variable.
+
+(b)dynamically typed?
+js is dynamically typed language means the variable data type is  defined language itself.
+we don't need explicitly mention the variable data type.
+
+
+(c)types of dataType?
+we have 2 type of data types
+1.primitive
+2.non-primitive
+
+1.primitive data type:
+
+   (a).hold single data value 
+   (b).dont have methods
+
+There are seven primitive data types in javascript:
+
+Number -1,2,0,9893748778
+String ="a","welcome","46565","$$$"
+Boolean
+BigInt
+Undefined
+Null
+Symbol
+
+2.Non-primitive Data Type
+
+Objects are non-primitive data types in JavaScript. Objects are data that have methods and properties.
+non-primitive data types can hold different types of data as a collection.
+
+
+
+
+array methods,string
+what are the hoc function-mrf 
+what callback function->covered in async
+dom elements
+
+_______________________________________________________________________________________________
+10:01 PM 14-Sep-24
+
+11:48 AM 16-Sep-24
+
+11:50 AM 16-Sep-24
